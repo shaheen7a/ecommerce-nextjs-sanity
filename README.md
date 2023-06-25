@@ -7,6 +7,7 @@
 
 ## Welcome! 👋
 Thanks for checking out this Application.
+E-commerce store built with Next.js and Sanity. It features a wide range of products, including clothing, electronics, and home goods. Users can browse the products, add them to their cart, and checkout. The web page also features a blog section where users can learn more about the products and the company.
 
 ## Overview
 
